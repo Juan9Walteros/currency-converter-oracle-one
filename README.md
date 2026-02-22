@@ -131,6 +131,9 @@ Respuesta JSON:
 
 ## 👨‍💻 Autor
 
+**Juan Walteros**
+- GitHub: [@Juan9Walteros](https://github.com/Juan9Walteros)
+
 Desarrollado como parte del programa **ONE — Oracle Next Education** con **Alura Latam**.
 
 #Oracle #AluraLatam #ONE #JavaChallenge
